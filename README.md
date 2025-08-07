@@ -49,7 +49,7 @@ O resultado? O time passou a enxergar **qualidade como algo estratégico**, não
 - **Banco de Dados**: SQL, MySQL, PostgreSQL  
 
 ### 📫 Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanda-galindo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandalaisgalindo/)
 
 ---
 ⭐ **Curiosidade**: Sou uma orgulhosa **mãe de pet**! 🐾✨
