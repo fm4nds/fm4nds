@@ -1,17 +1,16 @@
-# Oi, eu sou a Amanda Galindo! ✨
+# Hi, I'm Amanda Galindo! ✨
 ## 🌟 QA Engineer
+I'm a professional passionate about **software quality**, with over **3 years of experience** working in financial and public systems, transforming processes and raising the quality of systems!
 
-Sou uma profissional apaixonada por **qualidade de software**, com mais de **3 anos de experiência** atuando em sistemas financeiros e públicos, transformando processos e elevando a qualidade dos sistemas!
+### 💭 My Journey
+I’ve always been curious about how things work — and how we can make them even better. In the quality area, I found my place: where I can combine **technical analysis** with **strategic vision** to positively impact products and teams.  
+I work comprehensively, not just executing tests, but **building and optimizing processes** that deliver real value:  
+- ✨ **Metrics Analysis** – Turning data into actionable insights  
+- 🌸 **Process Structuring** – Creating flows that make sense for the team  
+- 💫 **Requirement Refinement** – Ensuring we truly understand what matters  
+- 🎀 **Test Automation** – Freeing the team to focus on what’s strategic  
 
-### 💭 Minha jornada
-Sempre fui curiosa sobre como as coisas funcionam — e como podemos torná-las ainda melhores. Na área de qualidade, encontrei meu lugar: onde consigo unir **análise técnica** com **visão estratégica** para impactar positivamente produtos e times.
-Atuo de forma completa, não apenas executando testes, mas **construindo e otimizando processos** que geram valor real:
-- ✨ **Análise de Métricas** – Transformando dados em insights acionáveis  
-- 🌸 **Estruturação de Processos** – Criando fluxos que fazem sentido para o time  
-- 💫 **Refinamento de Requisitos** – Garantindo que entendemos o que realmente importa  
-- 🎀 **Automação de Testes** – Liberando o time para focar no que é estratégico
-  
-### 🛠️ Ferramentas & Tecnologias
+### 🛠️ Tools & Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD96?style=for-the-badge&logo=playwright&logoColor=white)
@@ -30,34 +29,33 @@ Atuo de forma completa, não apenas executando testes, mas **construindo e otimi
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### 🚀 Uma conquista que me orgulho
-Entrei em um time onde o processo de QA não incluía criação estruturada de cenários de teste. Em apenas **3 sprints**, consegui transformar essa realidade:
-- **Mais de 220 casos de teste criados** ✅  
-- **Todos os casos vinculados às User Stories** ✅  
-- **Casos integrados com os bugs reportados** ✅  
-- **Geração de métricas para o time** ✅  
-- **Processo de qualidade estruturado** ✅  
-O resultado? O time passou a enxergar **qualidade como algo estratégico**, não apenas operacional. Isso me mostrou o poder de transformar processos!
+### 🚀 An Achievement I’m Proud Of
+I joined a team where the QA process didn’t include a structured creation of test scenarios. In just **3 sprints**, I transformed that reality:  
+- **Over 220 test cases created** ✅  
+- **All cases linked to User Stories** ✅  
+- **Cases integrated with reported bugs** ✅  
+- **Generation of team metrics** ✅  
+- **Structured quality process** ✅  
 
-### 🎯 O que eu faço
+The result? The team began to see **quality as something strategic**, not just operational. This showed me the power of transforming processes!
 
-#### 🌸 **Automação & Testes**  
+### 🎯 What I Do
+#### 🌸 **Automation & Testing**  
 - **Frameworks**: Playwright, Cypress, Robot Framework  
-- **Linguagens**: JavaScript, Python  
-- **Padrões**: Page Object Model, BDD, TDD  
-#### 💖 **Qualidade & Processos**  
-- **Métricas**: Definição e análise de KPIs  
-- **Processos**: Estruturação e otimização  
-- **Requisitos**: Refinamento e validação  
-- **Ágil**: Scrum, Kanban, Cerimônias  
-#### ✨ **Ferramentas**  
-- **Gerenciamento**: Zephyr, Test Plan, TestLink  
+- **Languages**: JavaScript, Python  
+- **Patterns**: Page Object Model, BDD, TDD  
+#### 💖 **Quality & Processes**  
+- **Metrics**: Definition and analysis of KPIs  
+- **Processes**: Structuring and optimization  
+- **Requirements**: Refinement and validation  
+- **Agile**: Scrum, Kanban, Ceremonies  
+#### ✨ **Tools**  
+- **Management**: Zephyr, Test Plan, TestLink  
 - **APIs**: Postman, JMeter  
 - **CI/CD**: GitHub Actions, Jenkins, GitLab  
-- **Banco de Dados**: SQL, MySQL, PostgreSQL  
+- **Databases**: SQL, MySQL, PostgreSQL  
 
-### 📫 Vamos nos conectar!
+### 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandalaisgalindo/)
-
 ---
-⭐ **Curiosidade**: Sou uma orgulhosa **mãe de pet**! 🐾✨
+⭐ **Fun Fact**: I’m a proud **pet mom**! 🐾✨
