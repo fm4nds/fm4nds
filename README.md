@@ -1,6 +1,6 @@
 # Hi, I'm Amanda Galindo! ✨
 ## 🌟 QA Engineer
-I'm a professional passionate about **software quality**, with over **3 years of experience** working in financial and public systems, transforming processes and raising the quality of systems!
+I'm a professional passionate about **software quality**, with over **4 years of experience** working in financial and public systems, transforming processes and raising the quality of systems!
 
 ### 💭 My Journey
 I’ve always been curious about how things work — and how we can make them even better. In the quality area, I found my place: where I can combine **technical analysis** with **strategic vision** to positively impact products and teams.  
