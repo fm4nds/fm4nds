@@ -1,14 +1,14 @@
 # Hi, I'm Amanda Galindo! ✨
 ## 🌟 QA Engineer
-I'm a professional passionate about **software quality**, with over **4 years of experience** working in financial and public systems, transforming processes and raising the quality of systems!
+I'm a professional passionate about **software quality**, with **6 years of experience**, transforming processes and raising the quality of systems!
 
 ### 💭 My Journey
 I’ve always been curious about how things work — and how we can make them even better. In the quality area, I found my place: where I can combine **technical analysis** with **strategic vision** to positively impact products and teams.  
 I work comprehensively, not just executing tests, but **building and optimizing processes** that deliver real value:  
-- ✨ **Metrics Analysis** – Turning data into actionable insights  
-- 🌸 **Process Structuring** – Creating flows that make sense for the team  
-- 💫 **Requirement Refinement** – Ensuring we truly understand what matters  
-- 🎀 **Test Automation** – Freeing the team to focus on what’s strategic  
+- ✨ **Metrics Analysis**  
+- 🌸 **Process Structuring** 
+- 💫 **Requirement Refinement**  
+- 🎀 **Test Automation**  
 
 ### 🛠️ Tools & Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
